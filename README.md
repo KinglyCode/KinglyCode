@@ -1,16 +1,26 @@
-### Hi there 👋
+## Welcome To KinglyCode's Profile
 
-<!--
-**KinglyCode/KinglyCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, my name is Daniel. This is my GitHub Profile.
+```
+Where I will be doing small projects to keep up with my coding skills!
+```
 
-Here are some ideas to get you started:
+## Known Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ [![My Skills](https://skills.thijs.gg/icons?i=js)](https://skills.thijs.gg)
++ [![My Skills](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg)
++ [![My Skills](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg)
++ [![My Skills](https://skills.thijs.gg/icons?i=git)](https://skills.thijs.gg)
++ [![My Skills](https://skills.thijs.gg/icons?i=mongodb)](https://skills.thijs.gg)
++ [![My Skills](https://skills.thijs.gg/icons?i=postgres)](https://skills.thijs.gg)
++ [![My Skills](https://skills.thijs.gg/icons?i=py)](https://skills.thijs.gg)
++ [![My Skills](https://skills.thijs.gg/icons?i=nodejs)](https://skills.thijs.gg)
++ [![My Skills](https://skills.thijs.gg/icons?i=react)](https://skills.thijs.gg)
+
+## Contact Me
+
+![Icon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/daniel-rodriguez-ii/)
+
+![Icon](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[GitHub](https://github.com/KinglyCode)
