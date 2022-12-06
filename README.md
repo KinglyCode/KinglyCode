@@ -24,3 +24,5 @@ Where I will be doing small projects to keep up with my coding skills!
 
 ![Icon](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 [GitHub](https://github.com/KinglyCode)
+
+[Email](bayglory@yahoo.com)
